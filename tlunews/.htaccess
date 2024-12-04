@@ -1,5 +1,0 @@
-# .htaccess
-RewriteEngine On
-RewriteRule ^admin/login$ /admin/login.php [L]
-RewriteRule ^admin/dashboard$ /admin/dashboard.php [L]
-RewriteRule ^admin/logout$ /admin/logout.php [L]
